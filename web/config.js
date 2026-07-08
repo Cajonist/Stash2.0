@@ -10,5 +10,5 @@ const CONFIG = {
 
   // Your user ID from Supabase (Authentication > Users)
   // For multi-user mode, this can be removed and auth will be required
-  USER_ID: 'YOUR_USER_ID',
+  USER_ID: '42f388ab-c17b-44c6-8d6a-c82b656e3e1f',
 };
